@@ -17,6 +17,4 @@ int main()
         printf("b=%d is the largest \n",b);
     else 
     printf("c=%d is the largest \n",c);
-
-
 }
